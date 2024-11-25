@@ -35,4 +35,4 @@ provideFormatter = true
 
 [deployment]
 deploymentTarget = "static"
-publicDir = "/index.html"
+publicDir = "./"
